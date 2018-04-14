@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InputGetter
+comment1.params=
+comment1.target=InputGetter()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=java.lang.String\ takeInput()
+comment2.text=\r\n\ Recieves\ input\ from\ the\ user\ via\ the\ keyboard\r\n
+numComments=3

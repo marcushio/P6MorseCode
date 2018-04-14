@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MorseTable
+comment1.params=
+comment1.target=MorseTable()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ \r\n
+numComments=3
